@@ -42,8 +42,6 @@ http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 #EXTINF:-1 ", Star Jalsha sd
 http://103.175.73.12:8080/live/195/195_0.m3u8
 #EXTINF:-1 ", Star Jalsha HD
-http://103.175.73.12:8080/live/194/194_0.m3u8
-#EXTINF:-1 ", Star Jalsha HD
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 #EXTINF:-1 ", Star Jalsha BDIX
 http://103.229.254.25:7001/play/a0c0/index.m3u8
