@@ -39,8 +39,6 @@ http://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
 http://103.229.254.25:7001/play/a05v/index.m3u8
 #EXTINF:-1 ", GAZI TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
-#EXTINF:-1 ", Star Jalsha sd
-http://103.175.73.12:8080/live/195/195_0.m3u8
 #EXTINF:-1 ", Star Jalsha HD
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 #EXTINF:-1 ", Star Jalsha BDIX
@@ -53,10 +51,6 @@ https://mang.easypecker.com/starjolsha/index.m3u8
 http://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 , Zee Bangla
 http://103.151.61.12/ZAHIR_EN8_90_110_P3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Zee Bangla
-http://103.175.73.12:8080/live/246/246_0.m3u8
-#EXTINF:-1 , Zee Bangla HD
-http://103.175.73.12:8080/live/373/373_0.m3u8
 #EXTINF:-1 , Zee Bangla HD BDIX
 http://103.229.254.25:7001/play/a0c3/index.m3u8
 #EXTINF:-1 , Zee Bangla HD BDIX2
@@ -65,24 +59,14 @@ http://202.70.146.135:8000/play/a03g/index.m3u8
 http://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1 , Colors Bangla HD
 http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
-#EXTINF:-1 , Colors Bangla HD
-http://103.140.254.2:3500/live/756.m3u8
-#EXTINF:-1 , Colors Bangla HD
-http://103.175.73.12:8080/live/193/193_0.m3u8
 #EXTINF:-1 , Colors Bangla HD BDIX
 http://103.229.254.25:7001/play/a0ds/index.m3u8
 #EXTINF:-1 , Bangla Classic Cinema
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 , ZB Cinema
 http://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Jalsha Movies HD
-http://103.175.73.12:8080/live/374/374_0.m3u8
-#EXTINF:-1 , Jalsha Movies HD BDIX
-http://103.175.73.12:8080/live/374/374_0.m3u8
 #EXTINF:-1 , Jalsha Movies HD BDIX
 http://103.229.254.25:7001/play/a0dt/index.m3u8
-#EXTINF:-1 , Colors Bangla Cinema
-http://103.175.73.12:8080/live/441/441_0.m3u8
 #EXTINF:-1 , Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , Zee Bangla Chinema
@@ -108,8 +92,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 , Sony Aath
 http://103.151.61.12/SonyAtth/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , Sony Aath
-http://103.175.73.12:8080/live/196/196_0.m3u8
-#EXTINF:-1 , Sony Aath
 http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , Sony Aath
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
@@ -127,12 +109,8 @@ http://103.229.254.25:7001/play/a09s/index.m3u8
 http://103.229.254.25:7001/play/a0db/index.m3u8
 #EXTINF:-1 , Hindi Classic Cinema
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
-#EXTINF:-1 , Sony Max sd
-http://103.175.73.12:8080/live/33/33_0.m3u8
 #EXTINF:-1 , Sony Max HD
 http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Sony Max HD
-http://103.175.73.12:8080/live/581/581_0.m3u8
 #EXTINF:-1 , Sony Max BDIX
 http://103.229.254.25:7001/play/a0co/index.m3u8
 #EXTINF:-1 , Zee Cinema HD
