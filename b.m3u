@@ -130,7 +130,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 , Sony Max sd
 http://103.175.73.12:8080/live/33/33_0.m3u8
 #EXTINF:-1 , Sony Max HD
-http://103.99.249.139/sonymax/index.m3u8
+http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , Sony Max HD
 http://103.175.73.12:8080/live/581/581_0.m3u8
 #EXTINF:-1 , Sony Max BDIX
