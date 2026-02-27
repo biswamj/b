@@ -173,6 +173,8 @@ http://103.229.254.25:7001/play/a07m/index.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:-1 , Colors HD BDIX
 http://103.229.254.25:7001/play/a0a1/index.m3u8
+#EXTINF:-1 , Colors HD BDIX2
+http://202.70.146.135:8000/play/a00b/index.m3u8
 #EXTINF:-1 ", Sangeet Bhojpuri
 http://mumt01.tangotv.in/SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 ", Showbox
