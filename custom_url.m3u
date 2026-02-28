@@ -182,6 +182,8 @@ https://mang.easypecker.com/ptv/index.m3u8
 #EXTINF:-1 , Nagorik HD
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , T sports Hd BDIX
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , T sports Hd BDIX
 http://10.16.100.202:8080/hls/tsports.m3u8
 #EXTINF:-1 , T sports Hd BDIX
 http://103.158.133.62:8080/live/index.m3u8
