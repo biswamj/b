@@ -131,8 +131,6 @@ http://103.229.254.25:7001/play/a0dr/index.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 , Travelxp HD BDIX
 http://103.229.254.25:7001/play/a0cy/index.m3u8
-#EXTINF:-1 , Discovery HD Bangla
-http://103.140.254.2:3500/live/3428.m3u8
 #EXTINF:-1 , Discovery HD BDIX
 http://103.229.254.25:7001/play/a03g/index.m3u8
 #EXTINF:-1 , Nat Geo HD BDIX
@@ -235,8 +233,6 @@ http://103.229.254.25:7001/play/a087/index.m3u8
 http://103.229.254.25:7001/play/a060/index.m3u8
 #EXTINF:-1 , Duronto TV  HD BDIX
 http://103.229.254.25:7001/play/a05k/index.m3u8
-#EXTINF:-1 , Nick Bangla
-http://103.140.254.2:3500/live/1341.m3u8
 #EXTINF:-1 , Nick BDIX
 http://103.229.254.25:7001/play/a0cq/index.m3u8
 #EXTINF:-1 , Cartoon Network BDIX
