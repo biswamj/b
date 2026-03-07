@@ -23,7 +23,7 @@ http://103.229.254.25:7001/play/a06i/index.m3u8
 http://103.229.254.25:7001/play/a06h/index.m3u8
 #EXTINF:-1 , ABP Ananda
 http://103.175.73.12:8080/live/200/200_0.m3u8
-#EXTINF:-1 , Republic Bangla
+#EXTINF:-1 , Republic Bangla jio
 http://103.180.212.191:3500/live/2780.m3u8
 #EXTINF:-1 , Republic Bangla
 http://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
@@ -71,7 +71,7 @@ http://103.229.254.25:7001/play/a0ds/index.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 , Sananda TV
 http://115.187.41.216:8080/hls/sanandatv/index.m3u8
-#EXTINF:-1 , MON tv
+#EXTINF:-1 , MON tv jio
 http://103.180.212.191:3500/live/3298.m3u8
 #EXTINF:-1 , MON tv
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
@@ -83,7 +83,7 @@ http://203.18.159.115/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 #EXTINF:-1 , Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Colors Bangla Cinema
+#EXTINF:-1 , Colors Bangla Cinema jio
 http://103.180.212.191:3500/live/1657.m3u8
 #EXTINF:-1 , Colors Bangla Cinema
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440968
@@ -165,7 +165,7 @@ http://103.229.254.25:7001/play/a038/index.m3u8
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 ", Dhoom Music
 http://mumt03.tangotv.in/DHOOM/index.m3u8
-#EXTINF:-1 ", Sangeet Bangla
+#EXTINF:-1 ", Sangeet Bangla jio
 http://103.180.212.191:3500/live/740.m3u8
 #EXTINF:-1 ", Sangeet Bangla
 http://cdn-4.pishow.tv/live/1143/master.m3u8
