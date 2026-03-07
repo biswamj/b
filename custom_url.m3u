@@ -24,6 +24,8 @@ http://103.229.254.25:7001/play/a06h/index.m3u8
 #EXTINF:-1 , ABP Ananda
 http://103.175.73.12:8080/live/200/200_0.m3u8
 #EXTINF:-1 , Republic Bangla
+http://103.180.212.191:3500/live/2780.m3u8
+#EXTINF:-1 , Republic Bangla
 http://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
 #EXTINF:-1 , CALCUTTA news
 https://akdnetwork.co.in/live/cnnew/index.m3u8
