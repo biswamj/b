@@ -213,6 +213,8 @@ http://mumt01.tangotv.in/HINDIHITS/index.m3u8
 http://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 , Zoom TV jio
 http://103.180.212.191:3500/live/592.m3u8
+#EXTINF:-1 , Music India jio
+http://103.180.212.191:3500/live/500.m3u8
 #EXTINF:-1 , Music India
 http://mumt05.tangotv.in/MUSICINDIA/index.m3u8
 #EXTINF:-1 , Music India 2
