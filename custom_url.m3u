@@ -73,7 +73,7 @@ http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
 http://103.229.254.25:7001/play/a0ds/index.m3u8
 #EXTINF:-1 , Sun Bangla HD
 http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , Sun Bangla
+#EXTINF:-1 , Sun Bangla jio
 http://103.180.212.191:3500/live/1669.m3u8
 #EXTINF:-1 , Bangla Classic Cinema
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
@@ -211,6 +211,8 @@ http://9xjio.wiseplayout.com/9XM/master.m3u8
 http://mumt01.tangotv.in/HINDIHITS/index.m3u8
 #EXTINF:-1 , Zoom TV
 http://d2esfk1pb9cdob.cloudfront.net/master.m3u8
+#EXTINF:-1 , Zoom TV jio
+http://103.180.212.191:3500/live/592.m3u8
 #EXTINF:-1 , Music India
 http://mumt05.tangotv.in/MUSICINDIA/index.m3u8
 #EXTINF:-1 , Music India 2
