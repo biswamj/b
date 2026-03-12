@@ -197,6 +197,8 @@ http://163.61.227.29:8000/play/a045/index.m3u8
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ", 9xm Mango
 https://mang.easypecker.com/9xm/index.m3u8
+#EXTINF:-1 ", B4U Music Mango
+https://mang.easypecker.com//B4UMusic/index.m3u8
 #EXTINF:-1 , 9xm BDIX
 http://103.229.254.25:7001/play/a07o/index.m3u8
 #EXTINF:-1 , 9xm
