@@ -257,8 +257,10 @@ https://a1xs.vip/700007
 http://198.195.239.50:8095/PTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , Ptv Sports Mango
 https://mang.easypecker.com/ptv/index.m3u8
-#EXTINF:-1 , Nagorik HD
+#EXTINF:-1 , Nagorik HD BDIX
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Nagorik HD BDIX2
+http://103.161.153.165:8000/play/a02f/index.m3u8
 #EXTINF:-1 , T sports Hd BDIX
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , T sports Hd BDIX
