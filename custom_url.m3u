@@ -83,6 +83,8 @@ http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
 http://103.161.153.165:8000/play/a03k/index.m3u8
 #EXTINF:-1 , Sun Bangla jio
 http://103.180.212.191:3500/live/1669.m3u8
+#EXTINF:-1 , Sun Bangla Mango
+https://mang.easypecker.com/SUN-BANGLA-HD/index.m3u8
 #EXTINF:-1 , Bangla Classic Cinema
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 , Sananda TV
@@ -99,6 +101,8 @@ http://103.229.254.25:7001/play/a0dt/index.m3u8
 http://103.161.153.165:8000/play/a01e/index.m3u8
 #EXTINF:-1 , Jalsha Movies HD BDIX3
 http://203.18.159.115/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Jalsha Movies HD Mango
+https://mang.easypecker.com/JALSHA-MOVIES-HD/index.m3u8
 #EXTINF:-1 , Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , Colors Bangla Cinema jio
