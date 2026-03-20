@@ -219,6 +219,8 @@ http://103.180.212.191:3500/live/144.m3u8
 http://103.229.254.25:7001/play/a0a1/index.m3u8
 #EXTINF:-1 , Colors HD BDIX3
 http://202.70.146.135:8000/play/a00b/index.m3u8
+#EXTINF:-1 , Colors HD BDIX4
+http://103.182.170.32:8888/play/a041
 #EXTINF:-1 , SET HD BDIX
 http://103.229.254.25:7001/play/a09u/index.m3u8
 #EXTINF:-1 , Star plus HD BDIX
