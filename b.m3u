@@ -1,0 +1,357 @@
+#EXTM3U
+#EXTINF:-1 , BTV HD BDIX
+http://103.229.254.25:7001/play/a064/index.m3u8
+#EXTINF:-1 , BTV NEWS HD BDIX
+http://103.229.254.25:7001/play/a065/index.m3u8
+#EXTINF:-1 , Ekattor TV BDIX
+http://103.229.254.25:7001/play/a06f/index.m3u8
+#EXTINF:-1 , Ekattor TV
+http://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 , Somoy TV BDIX
+http://103.229.254.25:7001/play/a05l/index.m3u8
+#EXTINF:-1 , Somoy TV
+http://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 , Channel 24 Mango
+https://mang.easypecker.com/CH24/index.m3u8
+#EXTINF:-1 , Channel 24
+http://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 , Atn News BDIX
+http://103.229.254.25:7001/play/a05u/index.m3u8
+#EXTINF:-1 , Atn Bangla BDIX
+http://103.229.254.25:7001/play/a06b/index.m3u8
+#EXTINF:-1 , News24 BDIX
+http://103.229.254.25:7001/play/a06i/index.m3u8
+#EXTINF:-1 , DBC NEWS BDIX
+http://103.229.254.25:7001/play/a06h/index.m3u8
+#EXTINF:-1 , Jamuna TV BDIX
+http://103.229.254.25:7001/play/a05y/index.m3u8
+#EXTINF:-1 , Jamuna TV BDIX2
+http://103.175.242.10:8080/jamuna/index.m3u8
+#EXTINF:-1 , ABP Ananda
+http://103.175.73.12:8080/live/200/200_0.m3u8
+#EXTINF:-1 , Republic Bangla jio
+http://103.180.212.191:3500/live/2780.m3u8
+#EXTINF:-1 , Republic Bangla
+http://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+#EXTINF:-1 , CALCUTTA news
+https://akdnetwork.co.in/live/cnnew/index.m3u8
+#EXTINF:-1 , DD Bangla
+http://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 , Channel i
+http://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 , RTV HD BDIX
+http://103.229.254.25:7001/play/a068/index.m3u8
+#EXTINF:-1 , Bangla Vision HD BDIX
+http://103.229.254.25:7001/play/a06d/index.m3u8
+#EXTINF:-1 , Bangla TV HD BDIX
+http://103.229.254.25:7001/play/a06c/index.m3u8
+#EXTINF:-1 , Maasranga HD BDIX
+http://103.229.254.25:7001/play/a05q/index.m3u8
+#EXTINF:-1 , Depto TV
+http://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
+#EXTINF:-1 , Ananda TV HD BDIX
+http://103.229.254.25:7001/play/a05v/index.m3u8
+#EXTINF:-1 ", GAZI TV
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+#EXTINF:-1 ", Star Jalsha HD
+http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+#EXTINF:-1 ", Star Jalsha BDIX
+http://103.161.153.165:8000/play/starjal/index.m3u8
+#EXTINF:-1 ", Star Jalsha BDIX2
+http://103.229.254.25:7001/play/a0c0/index.m3u8
+#EXTINF:-1 ", Star Jalsha yupptv
+http://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 ", Star Jalsha Mango
+https://mang.easypecker.com/starjolsha/index.m3u8
+#EXTINF:-1 , Zee Bangla yupptv
+http://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+#EXTINF:-1 , Zee Bangla Mango
+https://mang.easypecker.com/ZeeBangla/index.m3u8
+#EXTINF:-1 , Zee Bangla HD BDIX
+http://103.229.254.25:7001/play/a0c3/index.m3u8
+#EXTINF:-1 , Zee Bangla HD BDIX2
+http://103.161.153.165:8000/play/zeebnhd/index.m3u8
+#EXTINF:-1 , Zee Bangla HD BDIX3
+http://202.70.146.135:8000/play/a03g/index.m3u8
+#EXTINF:-1 , Colors Bangla HD yupptv
+http://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+#EXTINF:-1 , Colors Bangla HD
+http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
+#EXTINF:-1 , Colors Bangla HD BDIX
+http://103.229.254.25:7001/play/a0ds/index.m3u8
+#EXTINF:-1 , Colors Bangla HD BDIX2
+http://103.161.153.165:8000/play/a036/index.m3u8
+#EXTINF:-1 , Sun Bangla HD BDIX
+http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Sun Bangla HD BDIX2
+http://103.161.153.165:8000/play/a03k/index.m3u8
+#EXTINF:-1 , Sun Bangla jio
+http://103.180.212.191:3500/live/1669.m3u8
+#EXTINF:-1 , Sun Bangla Mango
+https://mang.easypecker.com/SUN-BANGLA-HD/index.m3u8
+#EXTINF:-1 , Bangla Classic Cinema
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+#EXTINF:-1 , Sananda TV
+http://115.187.41.216:8080/hls/sanandatv/index.m3u8
+#EXTINF:-1 , MON tv jio
+http://103.180.212.191:3500/live/3298.m3u8
+#EXTINF:-1 , MON tv
+http://115.187.41.216:8080/hls/montvbangla/index.m3u8
+#EXTINF:-1 , ZB Cinema
+http://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Jalsha Movies HD BDIX
+http://103.229.254.25:7001/play/a0dt/index.m3u8
+#EXTINF:-1 , Jalsha Movies HD BDIX2
+http://103.161.153.165:8000/play/a01e/index.m3u8
+#EXTINF:-1 , Jalsha Movies HD BDIX3
+http://203.18.159.115/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Jalsha Movies HD Mango
+https://mang.easypecker.com/JALSHA-MOVIES-HD/index.m3u8
+#EXTINF:-1 , Colors Bangla Cinema
+http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Colors Bangla Cinema jio
+http://103.180.212.191:3500/live/1657.m3u8
+#EXTINF:-1 , Colors Bangla Cinema
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440968
+#EXTINF:-1 , Colors Bangla Cinema Mango
+https://mang.easypecker.com/COLORS-BANGLA-CINEMA/index.m3u8
+#EXTINF:-1 , Zee Bangla Chinema
+http://103.151.61.12/ZeeBanglaCinemaHD/video.m3u8
+#EXTINF:-1 , Zee Bangla Chinema
+http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Zee Bangla Chinema
+http://103.182.170.32:8888/play/a044
+#EXTINF:-1 , Zee Bangla Chinema BDIX
+http://202.70.146.135:8000/play/a037/index.m3u8
+#EXTINF:-1 , Zee Bangla Chinema BDIX2
+http://103.161.153.165:8000/play/a035/index.m3u8
+#EXTINF:-1 , Zee Bangla Chinema BDIX2
+http://103.161.153.165:8000/play/a01a/index.m3u8
+#EXTINF:-1 , Zee Bangla Chinema Mango
+https://mang.easypecker.com/ZEE-BANGLA-CINEMA/index.m3u8
+#EXTINF:-1 , Star Bangla BDIX
+http://103.229.254.25:7001/play/a0eo/index.m3u8
+#EXTINF:-1 , Movie Bangla BDIX
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 , Movie Bangla HD BDIX
+http://alvetv.com/mbtv/8080/index.m3u8
+#EXTINF:-1 , Akash Bangla BDIX
+http://103.229.254.25:7001/play/a085/index.m3u8
+#EXTINF:-1 , Ruposhi Bangla BDIX
+http://103.229.254.25:7001/play/a083/index.m3u8
+#EXTINF:-1 ", Bangla+ Movie
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 , Enter10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 , Sony Aath Mango
+https://mang.easypecker.com/SonyAath/index.m3u8
+#EXTINF:-1 , Sony Aath
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Sony Aath
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/6641/index.m3u8
+#EXTINF:-1 , Khushboo Bangla
+http://mumt01.tangotv.in/KHUSHBOOTVBANGLA/index.m3u8
+#EXTINF:-1 , Motu Patlu
+http://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+#EXTINF:-1 , Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 , Gopal Bhar 2
+http://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 , Sony Sab bdix
+http://103.229.254.25:7001/play/a09s/index.m3u8
+#EXTINF:-1 , Sony Sab HD BDIX
+http://103.229.254.25:7001/play/a0db/index.m3u8
+#EXTINF:-1 , Sony Sab HD BDIX2
+http://103.161.153.165:8000/play/a057/index.m3u8
+#EXTINF:-1 , HUM TV
+https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 , Hindi Classic Cinema
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 , Sony Max HD
+http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Sony Max BDIX
+http://103.229.254.25:7001/play/a0co/index.m3u8
+#EXTINF:-1 , Zee Cinema HD
+http://198.195.239.50:8095/ZeeCinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Zee Cinema HD BDIX
+http://103.229.254.25:7001/play/a0c2/index.m3u8
+#EXTINF:-1 , Zee Cinema HD BDIX2
+http://103.161.153.165:8000/play/a00q/index.m3u8
+#EXTINF:-1 , Star Gold HD BDIX
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 , Star Gold HD 2 BDIX
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+#EXTINF:-1 , &Picture HD BDIX
+http://103.229.254.25:7001/play/a033/index.m3u8
+#EXTINF:-1 , Colors Cineplex
+http://198.195.239.50:8095/ColorsCineplex/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Sony PIX HD BDIX
+http://103.229.254.25:7001/play/a02u/index.m3u8
+#EXTINF:-1 , Animal Planet HD BDIX
+http://103.229.254.25:7001/play/a0dr/index.m3u8
+#EXTINF:-1 , Travelxp
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 , Travelxp HD BDIX
+http://103.229.254.25:7001/play/a0cy/index.m3u8
+#EXTINF:-1 , Travelxp HD BDIX
+http://103.182.170.32:8888/play/a01x
+#EXTINF:-1 , Discovery HD Ban BDIX
+http://103.112.62.174:8080/Discovery_bangla/index.m3u8
+#EXTINF:-1 , Discovery HD BDIX
+http://103.229.254.25:7001/play/a03g/index.m3u8
+#EXTINF:-1 , Nat Geo HD BDIX
+http://103.229.254.25:7001/play/a038/index.m3u8
+#EXTINF:-1 ", ATN Music
+http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 ", Dhoom Music
+http://mumt03.tangotv.in/DHOOM/index.m3u8
+#EXTINF:-1 ", Sangeet Bangla jio
+http://103.180.212.191:3500/live/740.m3u8
+#EXTINF:-1 ", Sangeet Bangla
+http://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 ", Sangeet Bangla
+http://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
+#EXTINF:-1 ", Sangeet Bangla BDIX
+http://103.229.254.25:7001/play/a07m/index.m3u8
+#EXTINF:-1 ", ZB Music jio
+http://103.180.212.191:3500/live/3319.m3u8
+#EXTINF:-1 ", Bengali Beat
+https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1 ", Bengali Beat2
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+#EXTINF:-1 , Colors HD
+https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
+#EXTINF:-1 , Colors HD
+http://103.175.242.10:8080/colorshd/index.m3u8
+#EXTINF:-1 , Colors HD jio
+http://103.180.212.191:3500/live/144.m3u8
+#EXTINF:-1 , Colors HD BDIX
+http://103.229.254.25:7001/play/a0a1/index.m3u8
+#EXTINF:-1 , Colors HD BDIX3
+http://202.70.146.135:8000/play/a00b/index.m3u8
+#EXTINF:-1 , Colors HD BDIX4
+http://103.182.170.32:8888/play/a041
+#EXTINF:-1 , SET HD BDIX
+http://103.229.254.25:7001/play/a09u/index.m3u8
+#EXTINF:-1 , Star plus HD BDIX
+http://103.229.254.25:7001/play/a09z/index.m3u8
+#EXTINF:-1 ", Sangeet Bhojpuri
+http://mumt01.tangotv.in/SANGEETBHOJPURI/index.m3u8
+#EXTINF:-1 ", Showbox
+http://163.61.227.29:8000/play/a045/index.m3u8
+#EXTINF:-1 ", T Seris
+http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ", 9xm Mango
+https://mang.easypecker.com/9xm/index.m3u8
+#EXTINF:-1 ", B4U Music Mango
+https://mang.easypecker.com//B4UMusic/index.m3u8
+#EXTINF:-1 , 9xm BDIX
+http://103.229.254.25:7001/play/a07o/index.m3u8
+#EXTINF:-1 , 9xm
+http://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 , Hindi Hits
+http://mumt01.tangotv.in/HINDIHITS/index.m3u8
+#EXTINF:-1 , Zoom TV
+http://d2esfk1pb9cdob.cloudfront.net/master.m3u8
+#EXTINF:-1 , Zoom jio
+http://103.180.212.191:3500/live/592.m3u8
+#EXTINF:-1 , Zoom Mango
+https://mang.easypecker.com/ZOOM-MUSIC/index.m3u8
+#EXTINF:-1 , Music India jio
+http://103.180.212.191:3500/live/500.m3u8
+#EXTINF:-1 , Music India
+http://mumt05.tangotv.in/MUSICINDIA/index.m3u8
+#EXTINF:-1 , Music India 2
+http://163.61.227.29:8000/play/a057/index.m3u8
+#EXTINF:-1 , 9X Jalwa
+https://mumt03.tangotv.in/9XJALWA/index.m3u8
+#EXTINF:-1 , 9X Jalwa BDIX
+http://103.229.254.25:7001/play/a07r/index.m3u8
+#EXTINF:-1 , Fox Sports
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
+#EXTINF:-1 , Fox Sports cricket
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+#EXTINF:-1 , Sky Sports cricket
+https://a1xs.vip/700001
+#EXTINF:-1 , Fox Sports hd
+https://a1xs.vip/700004
+#EXTINF:-1 , Fox Sports 1
+https://a1xs.vip/700003
+#EXTINF:-1 , Fox Sports 2
+https://a1xs.vip/700002
+#EXTINF:-1 , Fox Sports 3
+https://a1xs.vip/700007
+#EXTINF:-1 , Ptv Sports BDIX
+http://198.195.239.50:8095/PTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Ptv Sports Mango
+https://mang.easypecker.com/ptv/index.m3u8
+#EXTINF:-1 , Nagorik HD BDIX
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , Nagorik HD BDIX2
+http://103.161.153.165:8000/play/a02f/index.m3u8
+#EXTINF:-1 , T sports Hd BDIX
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , T sports Hd BDIX
+http://10.16.100.202:8080/hls/tsports.m3u8
+#EXTINF:-1 , T sports Hd BDIX
+http://103.158.133.62:8080/live/index.m3u8
+#EXTINF:-1 , T sports Hd BDIX
+http://103.96.235.18:9090/sports1/index.m3u8
+#EXTINF:-1 , T sports Hd mango
+https://mang.easypecker.com/TSportsHD/index.m3u8
+#EXTINF:-1 , Sony Ten 2 Hd BDIX
+http://103.229.254.25:7001/play/a02t/index.m3u8
+#EXTINF:-1 , Sony Ten 3 Hindi BDIX
+http://103.229.254.25:7001/play/a09q/index.m3u8
+#EXTINF:-1 , Skynet sports BDIX
+http://103.229.254.25:7001/play/a0eh/index.m3u8
+#EXTINF:-1 , Bein sports Xtra
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 , Bein sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 , Bein sports Xtra esp
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 , Bein sports BDIX
+http://103.229.254.25:7001/play/a0ea/index.m3u8
+#EXTINF:-1 , Eurosports HD BDIX
+http://103.229.254.25:7001/play/a03b/index.m3u8
+#EXTINF:-1 , Gazi TV Mango
+https://mang.easypecker.com/gtv/index.m3u8
+#EXTINF:-1 , Star sports 1 Hd
+http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
+#EXTINF:-1 , Star sports 1 Hindi
+http://103.175.73.12:8080/live/151/151_0.m3u8
+#EXTINF:-1 , Star sports 1 Hindi
+http://starsportshindiii.pages.dev/360p.m3u8
+#EXTINF:-1 , Star sports 1 Hindi
+http://103.229.254.25:7001/play/a0dn/index.m3u8
+#EXTINF:-1 , Star sports 2 Hindi
+http://103.182.170.32:8888/play/a04p
+#EXTINF:-1 , Star sports 1 Hd mango
+https://mang.easypecker.com/StarSports1/index.m3u8
+#EXTINF:-1 , Star sports 1 Hd BDIX
+http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1 , Star sports 2 Hd
+http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
+#EXTINF:-1 , Star sports 2 Hd
+http://103.140.254.2:3500/live/1998.m3u8
+#EXTINF:-1 , Star sports 2 HD Mango
+https://mang.easypecker.com/StarSports2/index.m3u8
+#EXTINF:-1 , A Sports HD BDIX
+http://103.229.254.25:7001/play/a087/index.m3u8
+#EXTINF:-1 , Channel S BDIX
+http://103.229.254.25:7001/play/a060/index.m3u8
+#EXTINF:-1 , Duronto TV  HD BDIX
+http://103.229.254.25:7001/play/a05k/index.m3u8
+#EXTINF:-1 , Tom & Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 , Nick BDIX
+http://103.229.254.25:7001/play/a0cq/index.m3u8
+#EXTINF:-1 , Cartoon Network BDIX
+http://103.229.254.25:7001/play/a0cn/index.m3u8
+#EXTINF:-1 , Sonic BDIX
+http://103.229.254.25:7001/play/a0dl/index.m3u8
+#EXTINF:-1 , Nick BDIX
+http://103.182.170.32:8888/play/a04q4.25:7001/play/a0dl/index.m3u8
+#EXTINF:-1 , Nick BDIX
+http://103.182.170.32:8888/play/a04q
